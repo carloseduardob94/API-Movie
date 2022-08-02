@@ -4,8 +4,16 @@ const UsersController = require('../controllers/UsersController')
 
 const usersRoutes = Router()
 
+function myMiddleware(request, response, next){
+
+}
+
+
+
+
+
 const userControllers = new UsersController()
 
-usersRoutes.post("/", userControllers.create)
+usersRoutes.post("/", myMiddleware, userControllers.create)
 
 module.exports = usersRoutes
