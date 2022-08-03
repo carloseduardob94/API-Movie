@@ -40,6 +40,10 @@ Alguns detalhes aprendidos em aula que foram adicionados no desafio:
                     
 </div>
 
+## Contato
+
+<img align="left" src="https://avatars.githubusercontent.com/carloseduardob94?size=100">
+
 Feito com ❤️ por [C. Eduardo](https://github.com/carloseduardob94)! <br>
 🛠 Frontend Developer Jr. <br>
 📍 Fortaleza - Brasil <br> 
