@@ -30,7 +30,7 @@ Alguns detalhes aprendidos em aula que foram adicionados no desafio:
 - Validação de e-mail;
 - Aplicar o cascade para garantir que uma tag será excluída caso o usuário opte por excluir a nota.
 
-<h2 align="center">Para fazer o desafio usei 👇</h2>
+<h2 align="center">Linguagens e Tecnologias usadas ⬇</h2>
 
 <div align="center">
 
@@ -39,3 +39,13 @@ Alguns detalhes aprendidos em aula que foram adicionados no desafio:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo" />
                     
 </div>
+
+Feito com ❤️ por [C. Eduardo](https://github.com/carloseduardob94)! <br>
+🛠 Frontend Developer Jr. <br>
+📍 Fortaleza - Brasil <br> 
+
+<a href="https://www.linkedin.com/in/carlos-eduardo-lima-lira-barbosa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>&nbsp;
+<a href="mailto:educonts08@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="20"></a>&nbsp;
+<a href="https://www.github.com/carloseduardob94" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="20"></a>&nbsp;
+
+<br clear="left"/>
